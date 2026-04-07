@@ -2,7 +2,11 @@
 
 以下の自分のOSのアップデートログです。
 
-https://qiita.com/mechamogera/items/1188103a57da5a092042
+[AIと対話して「技術者の自分」を再定義した話 〜不具合（Bug）だと思っていたものは、生存戦略（Spec）だった〜 #AI - Qiita](https://qiita.com/mechamogera/items/1188103a57da5a092042)
+
+## OS仕様書バックアップ
+
+[1188103a57da5a092042.md](1188103a57da5a092042.md)
 
 # アップデートログ文書一覧
 
@@ -13,7 +17,8 @@ https://qiita.com/mechamogera/items/1188103a57da5a092042
 - [パラレルワールドの干渉可能性](gemini-conversation-2026-03-26-12-50-37.md)
 - [好きなものの解像度](gemini-conversation-2026-03-28-06-19-36.md)
 
-# OS仕様書バックアップ
+# 私のメンテナンスマニュアル
 
-[1188103a57da5a092042.md](1188103a57da5a092042.md)
+[自己OS 保守運用マニュアル（LTS v2.0）](maintanace_manual.md)
+
 
