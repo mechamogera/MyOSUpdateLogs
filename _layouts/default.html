@@ -39,6 +39,19 @@
           // テキストが「You:」で始まっている場合に赤色にする
           if (tag.innerText.trim() === 'You:') {
             tag.style.color = '#ff4c4c'; // スレートテーマに合う少し明るめの赤
+
+            // 2. 「You:」が入っている親要素（段落 p）を探す
+            const parentP = tag.closest('p');
+            if (parentP) {
+              // --- デザインの設定 ---
+              parentP.style.backgroundColor = '#f9f9f9'; // 薄いグレーの背景
+              parentP.style.padding = '12px 15px';       // 内側に余白を作る
+              parentP.style.borderRadius = '8px';       // 角を丸くする
+              parentP.style.borderLeft = '5px solid #ff4c4c'; // 左端に赤いアクセント線
+              parentP.style.margin = '1.5em 0';         // 前後の間隔を調整
+              parentP.style.lineHeight = '1.6';         // 行間を少し広くして読みやすく
+              // --------------------
+            }
           }
         });
       });
