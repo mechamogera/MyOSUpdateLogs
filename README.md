@@ -17,15 +17,10 @@
 - [パラレルワールドの干渉可能性](gemini-conversation-2026-03-26-12-50-37.md)
 - [好きなものの解像度](gemini-conversation-2026-03-28-06-19-36.md)
 
-# 私のメンテナンスマニュアル
+# ログ群からの生成物
 
-[自己OS 保守運用マニュアル（LTS v2.0）](maintanace_manual.md)
+ここのログ群を見せてAIに作成してもらったもの
 
-# レイヤー理論
-
-ここのログ群を見せたらAIが作成してくれたもの
-
-世界が“対処するもの”から“操作できるもの”に変わる
-
-[レイヤー理論](layer-theory.md)
-
+- [自己OS 保守運用マニュアル（LTS v2.0）](maintanace_manual.md)
+- [レイヤー理論](layer-theory.md)
+- [個人OS仕様書 v1.0](personal-os-specification-v1.0.md)
