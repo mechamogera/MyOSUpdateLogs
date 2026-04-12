@@ -23,4 +23,5 @@
 
 - [自己OS 保守運用マニュアル（LTS v2.0）](maintanace_manual.md)
 - [レイヤー理論](layer-theory.md)
+- [レイヤー理論 x 守破離](layer-theory-and-shuhari.md)
 - [個人OS仕様書 v1.0](personal-os-specification-v1.0.md)
