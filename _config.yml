@@ -5,3 +5,6 @@ defaults:
       path: "" # すべてのファイルを対象にする
     values:
       layout: "default"
+
+plugins:
+  - jekyll-sitemap
